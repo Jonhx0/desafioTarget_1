@@ -1,0 +1,19 @@
+a) 1, 3, 5, 7, ___ = 9
+A lógica é adicionar 2 ao número anterior. O próximo número é o 9.
+
+b) 2, 4, 8, 16, 32, 64, ___ = 128
+A lógica é que cada número é o dobro do seu anterior, uma progressão geométrica de 2. O próximo número é 128.
+
+c) 0, 1, 4, 9, 16, 25, 36, ___ = 49
+A lógica é que cada número é o quadrado de seu número seguinte. Logo o próximo número é o 49 (7²).
+0² = 0 \\ 1² = 1 \\ 2² = 4 ... \\ 6² = 36.
+
+d) 4, 16, 36, 64, ___ = 100
+Similar a lógica anterior, porém agora é o quadrado apenas de números pares. O próximo número é o 100 (10²).
+2² = 4 \\ 4² = 16 ... \\ 8² = 64.
+
+e) 1, 1, 2, 3, 5, 8, ___ = 13
+Sequência de Fibonacci. O número seguinte é a soma dos dois anteriores.
+
+f) 2, 10, 12, 16, 17, 18, 19, ___ = 200
+Todos os números acima começam com a letra 'D'.

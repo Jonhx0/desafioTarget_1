@@ -1,0 +1,2 @@
+Na primeira ida eu acendo a lâmpada A, espero um pouco e a apago.
+Acendo a lâmpada B e volto pra sala, a que estiver acesa é por causa do interruptor B, a que estiver apagada e fria é do interruptor C e a morna é a do interruptor A.
